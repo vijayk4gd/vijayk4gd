@@ -49,4 +49,4 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vijaykrishnak04"><img src="https://github-readme-stats.vercel.app/api?username=vijaykrishnak04&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="vijaykrishnak04's GitHub stats" /></a>
+<a href="http://www.github.com/vijayk4gd"><img src="https://github-readme-stats.vercel.app/api?username=vijayk4gd&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="vijayk4gd's GitHub stats" /></a>
